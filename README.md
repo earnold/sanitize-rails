@@ -6,7 +6,7 @@ Installation
 
 Gemfile:
 
-    gem 'sanitize-rails', :require => 'sanitize/rails'
+    gem 'sanitize-rails'
 
 Configuration
 -------------

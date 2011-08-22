@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
   s.files = [
     "README.md",
     "Rakefile",
+    "lib/sanitize-rails.rb"
     "lib/sanitize/rails.rb",
     "lib/sanitize/railtie.rb"
   ]
